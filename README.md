@@ -1,6 +1,6 @@
 ## Hi there 👋
 
- 🔭 I’m currently working on Python, HTML, CSS, C++
+ 🔭 I’m currently working on Python, HTML, CSS, C++<br>
  🌱 I’m currently learning Javascript, Bash
  👯 I’m looking to collaborate on Python And C++ Related projects.
  🤔 I’m looking for help with jobs.
